@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.kizitonwose.colorpreference.ColorPreference
+        android:defaultValue="@color/colorBlackText"
+        android:title="@string/settings_title_color_text"
+        android:key="titleColor"
+        android:summary="@string/settings_title_color_text_summary"
+        app:colorShape="circle"
+        app:numColumns="5"
+        app:viewSize="large"
+        app:showDialog="true" />
+    <com.kizitonwose.colorpreference.ColorPreference
+        android:defaultValue="@color/colorBlackText"
+        android:title="@string/settings_chapter_color_text"
+        android:key="chapterColor"
+        android:summary="@string/settings_chapter_color_text_summary"
+        app:colorShape="circle"
+        app:numColumns="5"
+        app:viewSize="large"
+        app:showDialog="true" />
+    <com.kizitonwose.colorpreference.ColorPreference
+        android:defaultValue="@color/colorBlackText"
+        android:title="@string/settings_page_color_text"
+        android:key="pageColor"
+        android:summary="@string/settings_page_color_text_summary"
+        app:colorShape="circle"
+        app:numColumns="5"
+        app:viewSize="large"
+        app:showDialog="true" />
+</PreferenceScreen>

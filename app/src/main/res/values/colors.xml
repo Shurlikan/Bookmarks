@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e91115</color>
+    <color name="colorPrimaryDark">#a62123</color>
+    <color name="colorAccent">#e91115</color>
+
+    <color name="colorDialogNo">#18e911</color>
+    <color name="colorDialogNoClicked">#0b7008</color>
+    <color name="colorDialogYes">#e91115</color>
+    <color name="colorDialogYesClicked">#6e0a0c</color>
+
+    <color name="colorBlackText">#000000</color>
+    <color name="colorWhiteText">#ffffff</color>
+
+    <!-- ColorPickerDialog-->
+    <color name="paletteRedColor1">#ff0000</color>
+    <color name="paletteRedColor2">#d60202</color>
+    <color name="paletteRedColor3">#810000</color>
+    <color name="paletteRedColor4">#500000</color>
+    <color name="paletteYellowColor1">#ffe600</color>
+    <color name="paletteYellowColor2">#c9b500</color>
+    <color name="paletteYellowColor3">#685d00</color>
+
+
+</resources>
